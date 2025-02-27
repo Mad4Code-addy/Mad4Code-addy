@@ -1,15 +1,16 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Aditya Patel**, a passionate developer working on AI and Machine Learning!  
 
-<!-
-**Mad4Code-addy/Mad4Code-addy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 What I'm Working On  
+- 🎙️ Developing a model for dubbing an audio script into multiple languages  
+- 🤖 Exploring **LLMs (Large Language Models)** and their applications  
+- 🌍 Looking for collaborations to build **LLMs for social welfare**  
 
-Here are some ideas to get you started:
+### 🚀 What I'm Learning  
+- 📌 **Python for Machine Learning** (NumPy, Pandas, PyTorch, TensorFlow)  
+- 🔗 Speech Processing (**TTS & ASR**)  
 
-- 🔭 I’m currently developing a Model for dubbing a audio script into multiple language 
-- 🌱 I’m currently learning python for Machine Learning 
-- 👯 I’m looking to collaborate on building various LLMs
-- 🤔 I’m looking for help with building LLMs for social welfare
-- 💬 Ask me about ML
-- 📫 How to reach me: adityapatel8169@gmail.com
-- 😄 Pronouns: He/him
--->
+### 💬 Let's Connect!  
+📧 **Email:** [adityapatel8169@gmail.com](mailto:adityapatel8169@gmail.com)  
+
+
