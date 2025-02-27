@@ -28,5 +28,6 @@ I'm **Aditya Patel**, a passionate developer working on AI and Machine Learning!
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### 💬 Let's Connect!  
-📧 **Email:** [adityapatel8169@gmail.com](mailto:adityapatel8169@gmail.com)  
-🔗 **LinkedIn:** <a href="https://linkedin.com/in/aditya-patel-60a33a19b" target="_blank">linkedin.com/in/aditya-patel-60a33a19b</a>
+📧 [adityapatel8169@gmail.com](mailto:adityapatel8169@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/aditya-patel-60a33a19b)  
+📄 [**Resume**](https://drive.google.com/file/d/1fEzDaLIfX49LVEi9mmEkY_R-nlYct1tQ/view?usp=drive_link)
